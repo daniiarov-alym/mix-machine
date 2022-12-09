@@ -1,2 +1,2 @@
-# mmix-machine
-Simple implementation of Donald Knuth's MMIX machine
+# mix-machine
+Simple implementation of Donald Knuth's MIX machine
